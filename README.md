@@ -1,2 +1,2 @@
 # first-assignment
-First assignment of ML wirh Generative AI.
+First assignment of ML with Generative AI.
